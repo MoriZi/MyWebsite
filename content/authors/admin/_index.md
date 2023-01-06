@@ -4,25 +4,26 @@ authors:
 bio: medical doctor turned neuroscientist and image analyst.
 education:
   courses:
-    - course: Postdoctoral Research Fellow
-    institution: University of Toronto
-    year: 2017
   - course: PhD in Computer Science
     institution: York University
     year: 2016
-  - course: MSc in Computer Engineering
-    institution: University of Tehran 
-    year: 2011
-  
-email: "mzihayat@torontomu.ca"
+  - course: MSc in Neuroscience
+    institution: University of Göttingen
+    year: Sep 2015 - Apr 2017
+  - course: Medical Degree
+    institution: Aristotle University of Thessaloniki
+    year: Sep 2009 - Jul 2015
+email: "n.sirmpilatze@ucl.ac.uk"
 interests:
-- Natural Language Processing
-- Information Retrieval
-- Big Data Analytics
-name: Morteza Zihayat
+- Neuroscience
+- Neuroimaging
+- Anesthesia
+- Open science
+- Software
+name: Nikoloz Sirmpilatze
 organizations:
-- name: Toronto Metropolitan University
-  url: "https://www.torontomu.ca"
+- name: Sainsbury Wellcome Centre
+  url: "https://www.sainsburywellcome.org/web/"
 - name: Gatsby Computational Neuroscience Unit
   url: "https://www.ucl.ac.uk/gatsby/"
 - name: University College London (UCL)
