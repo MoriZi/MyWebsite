@@ -2,10 +2,10 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Academic Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,41 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Associate Professor"
+  company = "Toronto Metropolitan University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  date_start = "2022-02-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Co-director and Co-founder"
+  company = "Digital Enterprise Analytics and Leadership (DEAL) Research Center"
+  company_url = "https://www.torontomu.ca/tedrogersschool/digital-enterprise-analytics-and-leadership/about%20us/"
+  date_start = "2021-06-01"
+  date_end = ""
 
+[[experience]]
+  title = "Adjunct Professor"
+  company = "Department of Management Science at University of Waterloo"
+  company_url = ""
+  date_start = "2022-06-01"
+  date_end = ""
+
+[[experience]]
+  title = "Faculty Fellow"
+  company = "Centre of Advanced Studies (CAS) at IBM Canada"
+  company_url = ""
+  date_start = "2019-08-01"
+  date_end = ""  
+
+[[experience]]
+  title = "Assistant Professor"
+  company = "Toronto Metropolitan University"
+  company_url = ""
+  date_start = "2017-06-01"
+  date_end = "2020-02-01"
+  description = """
+  """
 +++

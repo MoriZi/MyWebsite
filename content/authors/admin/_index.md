@@ -1,53 +1,53 @@
 ---
 authors:
 - admin
-bio: medical doctor turned neuroscientist and image analyst.
+bio: Associate professor
 education:
   courses:
-  - course: PhD in Neuroimaging
-    institution: German Primate Center
-    year: May 2017 - Sep 2021
-  - course: MSc in Neuroscience
-    institution: University of Göttingen
-    year: Sep 2015 - Apr 2017
-  - course: Medical Degree
-    institution: Aristotle University of Thessaloniki
-    year: Sep 2009 - Jul 2015
-email: "n.sirmpilatze@ucl.ac.uk"
+  - course: Postodctoral Research Fellow
+    institution: University of Toronto
+    year: 2017
+  - course: PhD in Computer Science
+    institution: York University
+    year: 2016
+  - course: MSc in Computer Engineering
+    institution: University of Tehran
+    year: 2011
+email: "mzihayat@torontomu.ca"
 interests:
-- Neuroscience
-- Neuroimaging
-- Anesthesia
-- Open science
-- Software
-name: Nikoloz Sirmpilatze
+- Natural Language Processing
+- Information Retrieval
+- Business Analytics
+- Applied Machin Learning in Health, Cybersecurity, and Digital Media
+name: Morteza Zihayat
 organizations:
-- name: Sainsbury Wellcome Centre
-  url: "https://www.sainsburywellcome.org/web/"
-- name: Gatsby Computational Neuroscience Unit
-  url: "https://www.ucl.ac.uk/gatsby/"
-- name: University College London (UCL)
-  url: "https://www.ucl.ac.uk/"
-role: Research Software Engineer
+# - name: Toronto Metropolitan University
+#   url: "https://www.torontomu.ca/tedrogersschool/"
+# - name: IBM Center of Advanced Studies (CAS)
+#   url: "https://www-40.ibm.com/ibm/cas/canada/#:~:text=CAS%20is%20a%20system%20of,projects%2C%20and%20an%20annual%20conference."
+# - name: University of Waterloo
+#   url: "https://uwaterloo.ca/management-sciences/"
+role: Associate Professor in Machine Learning 
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/niksirbi
+  link: https://twitter.com/MortezaZihayat
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=vGwoc7oAAAAJ&hl=en
+  link: http://scholar.google.ca/citations?user=lZ8oEM8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/niksirbi
+  link: https://github.com/MoriZi
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/morteza-zihayat-8514b427  
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-I'm Niko, a medical doctor turned neuroscientist and image analyst. Since October 2022, I work as a Research Software Engineer at the [Sainsbury Wellcome Centre](https://www.sainsburywellcome.org/web/) and [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/).
+I am an associate professor at [Ted Rogers School of Information Technology Management (TRSITM)](https://www.ryerson.ca/information-technology-management/) at [Ryerson University](https://www.ryerson.ca/) and an adjunct professor in the department of [Management Sciences](https://uwaterloo.ca/management-sciences/) at the [University of Waterloo](https://uwaterloo.ca/).
 
-I completed my PhD at the [Functional Imaging Lab](https://www.dpz.eu/en/unit/functional-imaging-laboratory/about-us.html) of the [German Primate Center](https://www.dpz.eu), where I studied the effects of anesthesia on brain function using neuroimaging techniques, including functional Magnetic Resonance Imaging (fMRI) and in vivo 2‐photon calcium imaging.
-
-I care about promoting open, collaborative, and reproducible science. In my free time, you will find me dancing to swing music and trying to play the saxophone.
+Prior to joining TRSITM, I held a Postdoctoral Research Fellowship in the [Faculty of Information (iSchool)](https://ischool.utoronto.ca/) at the University of Toronto. I received my PhD from [York University](http://dminer.eecs.yorku.ca/), where my research focused on developing scalable frameworks to extract actionable knowledge from big data streams and graph data.
 
