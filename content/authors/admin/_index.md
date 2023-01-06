@@ -11,7 +11,7 @@ education:
     institution: York University
     year: 2016
   - course: MSc in Computer Engineering
-    institution: University of Tehran
+    institution: University of Tehran 
     year: 2011
   
 email: "mzihayat@torontomu.ca"
