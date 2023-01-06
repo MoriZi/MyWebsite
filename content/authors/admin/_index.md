@@ -4,9 +4,9 @@ authors:
 bio: medical doctor turned neuroscientist and image analyst.
 education:
   courses:
-  - course: PhD in Neuroimaging
-    institution: German Primate Center
-    year: May 2017 - Sep 2021
+  - course: PhD in Computer Science
+    institution: York University
+    year: 2016
   - course: MSc in Neuroscience
     institution: University of Göttingen
     year: Sep 2015 - Apr 2017
