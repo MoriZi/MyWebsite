@@ -2,10 +2,10 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true    # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Selected Awards"
 subtitle = ""
 
 # Date format
@@ -20,123 +20,63 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "GGNB"
-  organization_url = "http://www.uni-goettingen.de/en/56640.html"
-  title = "Introduction to Data Science"
+  organization = "Ted Rogers School of IT Management, Toronto Metropolitan University"
+  organization_url = "https://www.torontomu.ca/tedrogersschool/"
+  title = "Dean's Outstanding Scholarly, Research, and Creative (SRC) Activity Award"
   url = ""
   certificate_url = ""
-  date_start = "2018-02-19T13:00:00Z"
-  date_end = "2018-02-23T13:00:00Z"
-  description = "A 1-week hands-on course using python"
+  date_start = "2022-11-23T13:00:00Z"
+  date_end = "2022-11-23T13:00:00Z"
+  description = "The Dean's Scholarly, Research, and Creativity Activity Award recognizes individual faculty members on an annual basis for outstanding scholarly, research, and creative activities achievements and impact on their disciplines."
   
-[[item]]
-  organization = "GGNB"
-  organization_url = "http://www.uni-goettingen.de/en/56640.html"
-  title = "Introduction to 3D printing: macro and micro scale"
+  [[item]]
+  organization = "Ted Rogers School of Management, Toronto Metropolitan University"
+  organization_url = "https://www.torontomu.ca/tedrogersschool/"
+  title = "Ten Times Recipient of TRSM Outstanding Research Recognition."
   url = ""
   certificate_url = ""
-  date_start = "2018-10-29T13:00:00Z"
-  date_end = "2018-10-30T13:00:00Z"
-  description = "A 2-day course"
+  date_start = "2019-02-19T13:00:00Z"
+  date_end = "2022-12-23T13:00:00Z"
+  description = "This award will be given to faculties who publish in top-tier journals of the field."
   
 [[item]]
-  organization = "GGNB"
-  organization_url = "http://www.uni-goettingen.de/en/56640.html"
-  title = "Project management for young scientists"
+  organization = "European Conference on Information Retrieval (ECIR)"
+  organization_url = "https://ecir2022.org/"
+  title = "Best Short Paper Award"
   url = ""
   certificate_url = ""
-  date_start = "2018-10-18T13:00:00Z"
-  date_end = "2018-10-18T13:00:00Z"
-  description = "A 1-day course"
+  date_start = "2022-04-10T13:00:00Z"
+  date_end = "2022-04-15T13:00:00Z"
+  description = ""
   
 [[item]]
-  organization = "GGNB"
-  organization_url = "http://www.uni-goettingen.de/en/56640.html"
-  title = "Team work & leadership competencies in academia and beyond"
+  organization = "Ted Rogers School of IT Management, Toronto Metropolitan University"
+  organization_url = "https://www.torontomu.ca/tedrogersschool/"
+  title = "Annual TRSM Research Recognition Award"
   url = ""
   certificate_url = ""
-  date_start = "2018-10-23T13:00:00Z"
-  date_end = "2018-10-23T13:00:00Z"
-  description = "A 1-day course"
+  date_start = "2021-10-18T13:00:00Z"
+  date_end = "2021-10-18T13:00:00Z"
+  description = "This award is  given to faculty whose scholarly endeavors support the strategic, emerging, and unique context areas of research in TRSM."
   
 [[item]]
-  organization = "GGNB"
-  organization_url = "http://www.uni-goettingen.de/en/56640.html"
-  title = "Effective Scientific Communications Workshop"
+  organization = "Ted Rogers School of IT Management, Toronto Metropolitan University"
+  organization_url = "https://www.torontomu.ca/tedrogersschool/"
+  title = "Dean's Outstanding Scholarly, Research, and Creative (SRC) Activity Award"
   url = ""
   certificate_url = ""
-  date_start = "2018-03-06T13:00:00Z"
-  date_end = "2018-03-08T13:00:00Z"
-  description = "A 3-day workshop on scientific writing and presenting"
+  date_start = "2019-11-23T13:00:00Z"
+  date_end = "2019-11-23T13:00:00Z"
+  description = "The Dean's Scholarly, Research, and Creativity Activity Award recognizes individual faculty members on an annual basis for outstanding scholarly, research, and creative activities achievements and impact on their disciplines."
   
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = "https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome"
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/4FDYN28QWDXT"
-  date_start = "2018-02-01T13:00:00Z"
-  date_end = "2018-03-01T13:00:00Z"
-  description = "A 4-week online course"
-  
-[[item]]
-  organization = "GGNB"
-  organization_url = "http://www.uni-goettingen.de/en/56640.html"
-  title = "Seminar on Good Scientific Practice"
+  organization = "York University"
+  organization_url = "https://lassonde.yorku.ca/eecs/"
+  title = "Outstanding Ph.D. Dissertation Award."
   url = ""
   certificate_url = ""
-  date_start = "2017-12-05T13:00:00Z"
-  date_end = "2017-12-05T13:00:00Z"
-  description = "A 1-day seminar"
-  
-[[item]]
-  organization = "Leibniz–ScienceCampus Primate Cognition"
-  organization_url = "https://www.primate-cognition.eu/en/home.html"
-  title = "Regression Modelling"
-  url = ""
-  certificate_url = ""
-  date_start = "2017-05-08T13:00:00Z"
-  date_end = "2017-05-12T13:00:00Z"
-  description = "A 1-week course in regression modelling with R"
-
-[[item]]
-  organization = "European Primate Network (EUPRIM-Net)"
-  organization_url = "https://www.euprim-net.eu/"
-  title = "Laboratory Animal Science Course on Primates"
-  url = ""
-  certificate_url = ""
-  date_start = "2016-10-01T13:00:00Z"
-  date_end = "2016-11-01T13:00:00Z"
-  description = "According to FELASA guidelines - Functions A and B"
-  
-[[item]]
-  organization = "University Medical Center Göttingen"
-  organization_url = "https://www.umg.eu"
-  title = "Laboratory Animal Science"
-  url = ""
-  certificate_url = ""
-  date_start = "2016-02-01T13:00:00Z"
-  date_end = "2016-10-01T13:00:00Z"
-  description = "According to FELASA guidelines - Functions A and B"
-
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Visual Perception and the Brain"
-  url = "https://www.coursera.org/learn/visual-perception"
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/FZSFER4LKY"
-  date_start = "2014-10-01T13:00:00Z"
-  date_end = "2014-11-01T13:00:00Z"
-  description = "A 5-week online course"
-  
-[[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Medical Neuroscience"
-  url = "https://www.coursera.org/learn/medical-neuroscience"
-  certificate_url = "https://www.coursera.org/account/accomplishments/verify/ZTHKJTUULZ"
-  date_start = "2013-04-01T13:00:00Z"
-  date_end = "2013-07-01T13:00:00Z"
-  description = "An 11-week online course"
+  date_start = "2016-06-06T13:00:00Z"
+  date_end = "2016-06-08T13:00:00Z"
+  description = "The Prize will be awarded to recognize the outstanding dissertation among graduate students in the School of Computer Science and Electrical Engineering at York University."
   
 +++
