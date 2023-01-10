@@ -21,13 +21,15 @@ interests:
 - Applied Machin Learning in Health, Cybersecurity, and Digital Media
 name: Morteza Zihayat
 organizations:
-# - name: Toronto Metropolitan University
-#   url: "https://www.torontomu.ca/tedrogersschool/"
-# - name: IBM Center of Advanced Studies (CAS)
+# - name: Professing data science by day, dad-ing by night
 #   url: "https://www-40.ibm.com/ibm/cas/canada/#:~:text=CAS%20is%20a%20system%20of,projects%2C%20and%20an%20annual%20conference."
-# - name: University of Waterloo
-#   url: "https://uwaterloo.ca/management-sciences/"
-role: Professing business and computer science by day, data-crunching and dad-ing by night, Associate Professor @ torontomu
+- name: Associate Professor at Toronto Metropolitan University
+  url: "https://www.torontomu.ca/tedrogersschool/"
+- name: Faculty Fellow, IBM Center of Advanced Studies (CAS)
+  url: "https://www-40.ibm.com/ibm/cas/canada/#:~:text=CAS%20is%20a%20system%20of,projects%2C%20and%20an%20annual%20conference."
+- name: Adjunct Professor at University of Waterloo
+  url: "https://uwaterloo.ca/management-sciences/"
+role: Professing data science by day, dad-ing by night
 social:
 - icon: twitter
   icon_pack: fab
@@ -47,7 +49,7 @@ user_groups:
 - Visitors
 ---
 
-I am an associate professor at [Ted Rogers School of Information Technology Management (TRSITM)](https://www.ryerson.ca/information-technology-management/) at [Ryerson University](https://www.ryerson.ca/) and an adjunct professor in the department of [Management Sciences](https://uwaterloo.ca/management-sciences/) at the [University of Waterloo](https://uwaterloo.ca/).
+I am an associate professor at [Ted Rogers School of Information Technology Management (TRSITM)](https://www.torontomu.ca/information-technology-management/) at [Toronto Metropolitan University](https://www.torontomu.ca/) and an adjunct professor in the department of [Management Sciences](https://uwaterloo.ca/management-sciences/) at the [University of Waterloo](https://uwaterloo.ca/).
 
 Prior to joining TRSITM, I held a Postdoctoral Research Fellowship in the [Faculty of Information (iSchool)](https://ischool.utoronto.ca/) at the University of Toronto. I received my PhD from [York University](http://dminer.eecs.yorku.ca/), where my research focused on developing scalable frameworks to extract actionable knowledge from big data streams and graph data.
 
