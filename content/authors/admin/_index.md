@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Associate professor
+bio: Associate professor at Torontomu
 education:
   courses:
   - course: Postodctoral Research Fellow
