@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Associate professor at Torontomu
+bio: Associate professor
 education:
   courses:
   - course: Postodctoral Research Fellow
@@ -27,7 +27,7 @@ organizations:
 #   url: "https://www-40.ibm.com/ibm/cas/canada/#:~:text=CAS%20is%20a%20system%20of,projects%2C%20and%20an%20annual%20conference."
 # - name: University of Waterloo
 #   url: "https://uwaterloo.ca/management-sciences/"
-role: Data Scientist, University Professor, Father
+role: Professing business and computer science by day, data-crunching and dad-ing by night, Associate Professor @ torontomu
 social:
 - icon: twitter
   icon_pack: fab
