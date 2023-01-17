@@ -30,7 +30,7 @@ organizations:
   url: "https://www-40.ibm.com/ibm/cas/canada/#:~:text=CAS%20is%20a%20system%20of,projects%2C%20and%20an%20annual%20conference."
 - name: Adjunct Professor at University of Waterloo
   url: "https://uwaterloo.ca/management-sciences/"
-role: Professing data science by day, dad-ing by night
+# role: Professing data science by day, dad-ing by night
 social:
 - icon: twitter
   icon_pack: fab
