@@ -15,10 +15,11 @@ education:
     year: 2011
 email: "mzihayat@torontomu.ca"
 interests:
-- Information Retrieval
-- Applied Machin Learning in Cybersecurity and Health
-- Natural Language Processing
 - Business Analytics
+- Applied Machin Learning in Cybersecurity and Health
+- Information Retrieval
+- Natural Language Processing
+
 name: Morteza Zihayat
 organizations:
 # - name: Professing data science by day, dad-ing by night
