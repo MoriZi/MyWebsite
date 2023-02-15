@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   title = "Adjunct Professor"
   company = "Department of Management Science at University of Waterloo"
   company_url = ""
-  date_start = "2022-06-01"
+  date_start = "2021-05-01"
   date_end = ""
 
 [[experience]]
